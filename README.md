@@ -30,3 +30,16 @@ The format of input:
    **M1** denotes the initialization of endmembers by VCA;  
    **Y_c** denotes the coarse domain pixel data we conducted in the experiments;  
    **Y** denotes the HSI;  
+
+## Citation
+```shell
+@article{hu2024multi,
+  title={A multi-domain dual-stream network for hyperspectral unmixing},
+  author={Hu, Jiwei and Wang, Tianhao and Jin, Qiwen and Peng, Chengli and Liu, Quan},
+  journal={International Journal of Applied Earth Observation and Geoinformation},
+  volume={135},
+  pages={104247},
+  year={2024},
+  publisher={Elsevier}
+}
+```
